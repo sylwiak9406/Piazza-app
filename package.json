@@ -12,12 +12,12 @@
     "type": "git",
     "url": "https://github.com/sylwiak9406/Piazza-app"
   },
-  "author": "Jaffer",
+  "author": "Sylwia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sylwiak9406/Piazza-app/issues"
   },
-  "homepage": "https://github.com/Jaffer720/piazzaApi#readme",
+  "homepage": "https://github.com/sylwiak9406/Piazza-app#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
